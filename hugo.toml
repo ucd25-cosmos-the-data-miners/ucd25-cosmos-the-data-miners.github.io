@@ -12,10 +12,6 @@ theme = "nightfall"
     weight = 20
     url = "project"
   [[menu.header]]
-    name = "Exercise"
-    weight = 30
-    url = "exercise"
-  [[menu.header]]
     name = "Mini Projects"
     weight = 40
     url = "miniproj"
