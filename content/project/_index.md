@@ -1,4 +1,4 @@
 # Final Project:
 
 ### Project Link:
-Click [here](https://en.wikipedia.org/wiki/Markdown) to see our project. FIX LINK AFTER WEBSITE HAS BEEN DEPLOYED!!!!
+Click [here](dinosaur-shallot-rhhh.squarespace.com) to see our project. The password is 123.
